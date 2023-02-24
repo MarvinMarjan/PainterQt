@@ -1,0 +1,25 @@
+{
+	"BUILD_DIR" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/Painter_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter",
+	"INCLUDE_DIR" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/Painter_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/css/editbutton.css",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/css/dynamicwindow.css",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/paint.png",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/closeIcon.png"
+	],
+	"LOCK_FILE" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/Painter_autogen.dir/AutoRcc_resource_file_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource_file" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resource_file.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.4.2/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/Painter_autogen.dir/AutoRcc_resource_file_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/resource_file.qrc",
+	"VERBOSITY" : 0
+}

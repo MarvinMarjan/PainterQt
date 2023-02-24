@@ -1,0 +1,19 @@
+# ninja log v5
+1	1481	6989841878528494	Painter_autogen/timestamp	e189cebd5677a536
+1	1481	6989841878528494	Painter_autogen/mocs_compilation.cpp	e189cebd5677a536
+1	1481	6989841878528494	C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/Painter_autogen/timestamp	e189cebd5677a536
+1	1481	6989841878528494	C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/Painter_autogen/mocs_compilation.cpp	e189cebd5677a536
+1483	1587	6989841881792709	Painter_autogen/EWIEGA46WW/qrc_resource_file.cpp	31a91d60df5a1a06
+1483	1587	6989841881792709	C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/Painter_autogen/EWIEGA46WW/qrc_resource_file.cpp	31a91d60df5a1a06
+1602	7663	6989841942215254	CMakeFiles/Painter.dir/main.cpp.obj	b1f5c5ecf864318a
+1633	7687	6989841942371452	CMakeFiles/Painter.dir/components/EditButton/editbuttonAnimation.cpp.obj	e3246b57d0df0094
+1628	7696	6989841942371452	CMakeFiles/Painter.dir/components/EditButton/editbutton.cpp.obj	4fca3a6bb6b91fa
+1610	7823	6989841943944120	CMakeFiles/Painter.dir/mainwindow.cpp.obj	2e2b49f240589d6c
+1587	7943	6989841944830430	CMakeFiles/Painter.dir/Painter_autogen/mocs_compilation.cpp.obj	6327eb335dc1e8fd
+1597	8067	6989841946023819	CMakeFiles/Painter.dir/draw.cpp.obj	41c688f1415d8bd5
+7943	8223	6989841947790105	CMakeFiles/Painter.dir/Painter_autogen/EWIEGA46WW/qrc_resource_file.cpp.obj	32bc93a96cc08e14
+7687	11041	6989841975909871	CMakeFiles/Painter.dir/predef_elements/selectColorWindow/selectColorWindowPredef.cpp.obj	90b514ee497b391c
+7696	11520	6989841981012006	CMakeFiles/Painter.dir/components/DynamicWindow/dynamicwindow.cpp.obj	5207b73a90728ae0
+7670	11540	6989841981270802	CMakeFiles/Painter.dir/components/EditButton/editbuttonBGButton.cpp.obj	50c4628e60fc4797
+7824	12223	6989841988144555	CMakeFiles/Painter.dir/predef_elements/brushEditWindow/brushEditWindowPredef.cpp.obj	a514d7c2da72b644
+12223	12560	6989841991378155	Painter.exe	5f6d322dcc2b7eb5

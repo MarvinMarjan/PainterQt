@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Release-1ffc3060956ef1d32ecd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Painter",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Painter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Painter-Release-af25a51e43d553082c3a.json",
+					"name" : "Painter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Painter_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Painter_autogen-Release-0230df6a488eb4eab398.json",
+					"name" : "Painter_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Painter_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Painter_autogen_timestamp_deps-Release-aa4033433fd52d19a606.json",
+					"name" : "Painter_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release",
+		"source" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
