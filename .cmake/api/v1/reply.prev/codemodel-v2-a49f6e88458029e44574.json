@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Release-1ffc3060956ef1d32ecd.json",
+					"jsonFile" : "directory-.-Release-d1d751058d890851247d.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "Painter::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Painter-Release-af25a51e43d553082c3a.json",
+					"jsonFile" : "target-Painter-Release-94d2add37b16e65d27e5.json",
 					"name" : "Painter",
 					"projectIndex" : 0
 				},

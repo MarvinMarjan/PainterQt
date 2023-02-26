@@ -2,3 +2,5 @@
 #include "Y3ATEJKCV3/moc_dynamicwindow.cpp"
 #include "EWIEGA46WW/moc_draw.cpp"
 #include "EWIEGA46WW/moc_mainwindow.cpp"
+#include "HWGEFW6YQ7/moc_colorwidget.cpp"
+#include "HWGEFW6YQ7/moc_selectColorWindowPredef.cpp"

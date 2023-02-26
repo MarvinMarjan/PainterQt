@@ -13,6 +13,8 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtCore/QSize \
   C:/Qt/6.4.2/mingw_64/include/QtCore/QSizeF \
   C:/Qt/6.4.2/mingw_64/include/QtCore/QString \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/QStringList \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/QVector \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qabstractanimation.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qanimationgroup.h \
@@ -112,9 +114,11 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qvariantanimation.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/qvector.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QColor \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QEnterEvent \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/QMouseEvent \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QPainter \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QTransform \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qaction.h \
@@ -147,7 +151,9 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtGui/qrgb.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qrgba64.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qscreen.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qtextcursor.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtextdocument.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qtextformat.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtextoption.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtgui-config.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtguiexports.h \
@@ -161,6 +167,7 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QFrame \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsBlurEffect \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QLabel \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/QLineEdit \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QMainWindow \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QMessageBox \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QPushButton \
@@ -174,6 +181,7 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qframe.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qgraphicseffect.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qlabel.h \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/qlineedit.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qmainwindow.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qmessagebox.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qpushbutton.h \
@@ -421,4 +429,8 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbutton.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/StaticWidget/staticwidget.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/cssloader.h \
-  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/draw.h
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/draw.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/brushEditWindowPredef.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/colorUtil.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/selectColorWindow/colorwidget.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/selectColorWindow/selectColorWindowPredef.h
