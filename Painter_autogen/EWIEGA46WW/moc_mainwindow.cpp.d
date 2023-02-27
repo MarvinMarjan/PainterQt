@@ -166,6 +166,7 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QApplication \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QFrame \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsBlurEffect \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsOpacityEffect \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QLineEdit \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QMainWindow \
