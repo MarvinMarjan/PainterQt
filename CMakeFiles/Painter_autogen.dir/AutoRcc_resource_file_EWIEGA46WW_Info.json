@@ -9,7 +9,9 @@
 	[
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/css/editbutton.css",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/css/dynamicwindow.css",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/image/window_icon.png",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/paint.png",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/minimizeIcon.png",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/closeIcon.png"
 	],
 	"LOCK_FILE" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/Painter_autogen.dir/AutoRcc_resource_file_EWIEGA46WW_Lock.lock",

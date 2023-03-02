@@ -592,6 +592,7 @@ Painter_autogen/timestamp: \
 	C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/CMakeLists.txt \
 	C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/dynamicwindow.cpp \
 	C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/dynamicwindow.h \
+	C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/windowAnimation.cpp \
 	C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbutton.cpp \
 	C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbutton.h \
 	C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbuttonAnimation.cpp \

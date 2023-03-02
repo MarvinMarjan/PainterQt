@@ -1988,3 +1988,4 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/selec
  mdp:C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/StaticWidget/staticwidget.h
  mdp:C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/colorUtil.h
 C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/colorUtil.h
+C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/windowAnimation.cpp

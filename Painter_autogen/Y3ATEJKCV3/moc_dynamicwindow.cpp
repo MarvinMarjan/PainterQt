@@ -27,10 +27,11 @@ QT_WARNING_PUSH
 QT_WARNING_DISABLE_DEPRECATED
 namespace {
 struct qt_meta_stringdata_DynamicWindow_t {
-    uint offsetsAndSizes[6];
+    uint offsetsAndSizes[8];
     char stringdata0[14];
     char stringdata1[12];
     char stringdata2[1];
+    char stringdata3[15];
 };
 #define QT_MOC_LITERAL(ofs, len) \
     uint(sizeof(qt_meta_stringdata_DynamicWindow_t::offsetsAndSizes) + ofs), len 
@@ -38,11 +39,13 @@ Q_CONSTINIT static const qt_meta_stringdata_DynamicWindow_t qt_meta_stringdata_D
     {
         QT_MOC_LITERAL(0, 13),  // "DynamicWindow"
         QT_MOC_LITERAL(14, 11),  // "windowClose"
-        QT_MOC_LITERAL(26, 0)   // ""
+        QT_MOC_LITERAL(26, 0),  // ""
+        QT_MOC_LITERAL(27, 14)   // "windowMinimize"
     },
     "DynamicWindow",
     "windowClose",
-    ""
+    "",
+    "windowMinimize"
 };
 #undef QT_MOC_LITERAL
 } // unnamed namespace
@@ -53,7 +56,7 @@ Q_CONSTINIT static const uint qt_meta_data_DynamicWindow[] = {
       10,       // revision
        0,       // classname
        0,    0, // classinfo
-       1,   14, // methods
+       2,   14, // methods
        0,    0, // properties
        0,    0, // enums/sets
        0,    0, // constructors
@@ -61,9 +64,11 @@ Q_CONSTINIT static const uint qt_meta_data_DynamicWindow[] = {
        0,       // signalCount
 
  // slots: name, argc, parameters, tag, flags, initial metatype offsets
-       1,    0,   20,    2, 0x08,    1 /* Private */,
+       1,    0,   26,    2, 0x08,    1 /* Private */,
+       3,    0,   27,    2, 0x08,    2 /* Private */,
 
  // slots: parameters
+    QMetaType::Void,
     QMetaType::Void,
 
        0        // eod
@@ -79,6 +84,8 @@ Q_CONSTINIT const QMetaObject DynamicWindow::staticMetaObject = { {
         // Q_OBJECT / Q_GADGET
         QtPrivate::TypeAndForceComplete<DynamicWindow, std::true_type>,
         // method 'windowClose'
+        QtPrivate::TypeAndForceComplete<void, std::false_type>,
+        // method 'windowMinimize'
         QtPrivate::TypeAndForceComplete<void, std::false_type>
     >,
     nullptr
@@ -91,6 +98,7 @@ void DynamicWindow::qt_static_metacall(QObject *_o, QMetaObject::Call _c, int _i
         (void)_t;
         switch (_id) {
         case 0: _t->windowClose(); break;
+        case 1: _t->windowMinimize(); break;
         default: ;
         }
     }
@@ -116,13 +124,13 @@ int DynamicWindow::qt_metacall(QMetaObject::Call _c, int _id, void **_a)
     if (_id < 0)
         return _id;
     if (_c == QMetaObject::InvokeMetaMethod) {
-        if (_id < 1)
+        if (_id < 2)
             qt_static_metacall(this, _c, _id, _a);
-        _id -= 1;
+        _id -= 2;
     } else if (_c == QMetaObject::RegisterMethodArgumentMetaType) {
-        if (_id < 1)
+        if (_id < 2)
             *reinterpret_cast<QMetaType *>(_a[0]) = QMetaType();
-        _id -= 1;
+        _id -= 2;
     }
     return _id;
 }
