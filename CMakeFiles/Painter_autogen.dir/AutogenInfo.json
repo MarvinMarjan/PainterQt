@@ -254,15 +254,21 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/AppMenu/appMenu.h",
+			"MU",
+			"DSNXXC7GTX/moc_appMenu.cpp",
+			null
+		],
+		[
 			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/dynamicwindow.h",
 			"MU",
 			"Y3ATEJKCV3/moc_dynamicwindow.cpp",
 			null
 		],
 		[
-			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbutton.h",
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButton.h",
 			"MU",
-			"QT5J7S6WWU/moc_editbutton.cpp",
+			"PLCFR76BHI/moc_menuButton.cpp",
 			null
 		],
 		[
@@ -299,6 +305,18 @@
 			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/colorUtil.h",
 			"MU",
 			"IWEK3KJDMW/moc_colorUtil.cpp",
+			null
+		],
+		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/drawShapeWindow/drawShapeWindowPredef.h",
+			"MU",
+			"XFVQ6WWT5F/moc_drawShapeWindowPredef.cpp",
+			null
+		],
+		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/menuButtons/buttons.h",
+			"MU",
+			"GB3DIULGS4/moc_buttons.cpp",
 			null
 		],
 		[
@@ -395,17 +413,17 @@
 			null
 		],
 		[
-			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbutton.cpp",
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButton.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbuttonAnimation.cpp",
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButtonAnimation.cpp",
 			"MU",
 			null
 		],
 		[
-			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbuttonBGButton.cpp",
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButtonBGButton.cpp",
 			"MU",
 			null
 		],

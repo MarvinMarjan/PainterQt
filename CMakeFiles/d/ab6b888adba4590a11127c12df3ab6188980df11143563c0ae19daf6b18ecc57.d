@@ -165,6 +165,7 @@ Painter_autogen/timestamp: \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QApplication \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QFrame \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsBlurEffect \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsEffect \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsOpacityEffect \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QLineEdit \
@@ -590,13 +591,14 @@ Painter_autogen/timestamp: \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/CMakeLists.txt \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/AppMenu/appMenu.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/dynamicwindow.cpp \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/dynamicwindow.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/windowAnimation.cpp \
-  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbutton.cpp \
-  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbutton.h \
-  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbuttonAnimation.cpp \
-  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbuttonBGButton.cpp \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButton.cpp \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButton.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButtonAnimation.cpp \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButtonBGButton.cpp \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/StaticWidget/staticwidget.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/cssloader.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/draw.cpp \
@@ -607,6 +609,8 @@ Painter_autogen/timestamp: \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/brushEditWindowPredef.cpp \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/brushEditWindowPredef.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/colorUtil.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/drawShapeWindow/drawShapeWindowPredef.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/menuButtons/buttons.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/selectColorWindow/colorwidget.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/selectColorWindow/selectColorWindowPredef.cpp \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/selectColorWindow/selectColorWindowPredef.h \

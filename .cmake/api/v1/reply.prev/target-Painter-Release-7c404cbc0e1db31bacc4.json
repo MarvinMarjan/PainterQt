@@ -51,7 +51,7 @@
 			{
 				"command" : 3,
 				"file" : 1,
-				"line" : 41,
+				"line" : 43,
 				"parent" : 0
 			},
 			{
@@ -75,13 +75,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 73,
+				"line" : 75,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 63,
+				"line" : 65,
 				"parent" : 0
 			},
 			{
@@ -373,25 +373,25 @@
 				1,
 				2,
 				6,
-				9,
+				8,
 				10,
 				11,
 				13,
 				14,
 				17,
 				20,
-				25
+				27
 			]
 		}
 	],
 	"dependencies" : 
 	[
 		{
-			"id" : "Painter_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "Painter_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "Painter_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "Painter::@6890427a1f51a3e7e1df",
@@ -500,14 +500,14 @@
 				1,
 				2,
 				6,
-				9,
+				8,
 				10,
 				11,
 				13,
 				14,
 				17,
 				20,
-				25
+				27
 			]
 		},
 		{
@@ -517,14 +517,16 @@
 				3,
 				5,
 				7,
-				8,
+				9,
 				12,
 				15,
 				16,
 				18,
 				19,
 				21,
-				23
+				22,
+				23,
+				25
 			]
 		},
 		{
@@ -532,16 +534,16 @@
 			"sourceIndexes" : 
 			[
 				4,
-				22,
-				24
+				24,
+				26
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				26,
-				27
+				28,
+				29
 			]
 		}
 	],
@@ -594,25 +596,25 @@
 		},
 		{
 			"backtrace" : 4,
-			"path" : "components/EditButton/editbutton.h",
+			"compileGroupIndex" : 0,
+			"path" : "components/MenuButton/menuButtonAnimation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"path" : "components/MenuButton/menuButton.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 4,
 			"compileGroupIndex" : 0,
-			"path" : "components/EditButton/editbutton.cpp",
+			"path" : "components/MenuButton/menuButton.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 4,
 			"compileGroupIndex" : 0,
-			"path" : "components/EditButton/editbuttonAnimation.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 4,
-			"compileGroupIndex" : 0,
-			"path" : "components/EditButton/editbuttonBGButton.cpp",
+			"path" : "components/MenuButton/menuButtonBGButton.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -667,6 +669,16 @@
 		{
 			"backtrace" : 4,
 			"path" : "predef_elements/selectColorWindow/colorwidget.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "predef_elements/drawShapeWindow/drawShapeWindowPredef.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 4,
+			"path" : "predef_elements/menuButtons/buttons.h",
 			"sourceGroupIndex" : 1
 		},
 		{

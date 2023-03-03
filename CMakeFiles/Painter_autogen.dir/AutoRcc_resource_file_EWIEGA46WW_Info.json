@@ -7,10 +7,11 @@
 	"INCLUDE_DIR" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/Painter_autogen/include",
 	"INPUTS" : 
 	[
-		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/css/editbutton.css",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/css/menubutton.css",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/css/dynamicwindow.css",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/menuButtons/paint.png",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/menuButtons/shapes.png",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/image/window_icon.png",
-		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/paint.png",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/minimizeIcon.png",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/closeIcon.png"
 	],

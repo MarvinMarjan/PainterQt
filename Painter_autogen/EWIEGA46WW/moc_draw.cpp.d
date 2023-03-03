@@ -13,6 +13,7 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtCore/QSize \
   C:/Qt/6.4.2/mingw_64/include/QtCore/QSizeF \
   C:/Qt/6.4.2/mingw_64/include/QtCore/QString \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/QVector \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qabstractanimation.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qanimationgroup.h \
@@ -112,6 +113,7 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtCore/qvariant.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qvariantanimation.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qvarlengtharray.h \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/qvector.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QColor \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QEnterEvent \
@@ -160,6 +162,7 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QApplication \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QFrame \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsBlurEffect \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsEffect \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsOpacityEffect \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QMessageBox \
@@ -415,7 +418,8 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wctype.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/AppMenu/appMenu.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/dynamicwindow.h \
-  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/EditButton/editbutton.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButton.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/StaticWidget/staticwidget.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/cssloader.h
