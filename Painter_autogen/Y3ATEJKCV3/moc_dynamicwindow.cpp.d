@@ -1,9 +1,13 @@
 C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/Painter_autogen/Y3ATEJKCV3/moc_dynamicwindow.cpp: C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/dynamicwindow.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/Painter_autogen/moc_predefs.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/QCoreApplication \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/QList \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/QObject \
   C:/Qt/6.4.2/mingw_64/include/QtCore/QParallelAnimationGroup \
   C:/Qt/6.4.2/mingw_64/include/QtCore/QPropertyAnimation \
   C:/Qt/6.4.2/mingw_64/include/QtCore/QRect \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/QSize \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/QSizeF \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qabstractanimation.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qanimationgroup.h \
@@ -64,6 +68,7 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtCore/qpair.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qparallelanimationgroup.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qpoint.h \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/qpointer.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qprocessordetection.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qpropertyanimation.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qrect.h \
@@ -101,31 +106,41 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtCore/qvarlengtharray.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QColor \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/QMouseEvent \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/QPixmap \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/QTransform \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qaction.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qbitmap.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qbrush.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qcolor.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qcursor.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qevent.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qeventpoint.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qfont.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qfontinfo.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qfontmetrics.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qicon.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qimage.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qinputdevice.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qkeysequence.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qpaintdevice.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qpalette.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qpicture.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qpixelformat.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qpixmap.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qpointingdevice.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qpolygon.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qregion.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qrgb.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qrgba64.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qscreen.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtextdocument.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtgui-config.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtguiexports.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtguiglobal.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtransform.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qvector2d.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qvectornd.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsOpacityEffect \

@@ -266,6 +266,12 @@
 			null
 		],
 		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/guiComponents.h",
+			"MU",
+			"Y3ATEJKCV3/moc_guiComponents.cpp",
+			null
+		],
+		[
 			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButton.h",
 			"MU",
 			"PLCFR76BHI/moc_menuButton.cpp",
@@ -284,9 +290,39 @@
 			null
 		],
 		[
-			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/draw.h",
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/Shapes/circle.h",
 			"MU",
-			"EWIEGA46WW/moc_draw.cpp",
+			"WDUGAUKHYL/moc_circle.cpp",
+			null
+		],
+		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/Shapes/line.h",
+			"MU",
+			"WDUGAUKHYL/moc_line.cpp",
+			null
+		],
+		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/Shapes/polygon.h",
+			"MU",
+			"WDUGAUKHYL/moc_polygon.cpp",
+			null
+		],
+		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/Shapes/rectangle.h",
+			"MU",
+			"WDUGAUKHYL/moc_rectangle.cpp",
+			null
+		],
+		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/draw.h",
+			"MU",
+			"U7HF7WGTV7/moc_draw.cpp",
+			null
+		],
+		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/shape.h",
+			"MU",
+			"U7HF7WGTV7/moc_shape.cpp",
 			null
 		],
 		[
@@ -305,6 +341,18 @@
 			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/colorUtil.h",
 			"MU",
 			"IWEK3KJDMW/moc_colorUtil.cpp",
+			null
+		],
+		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/drawColorMenu/drawColorMenu.h",
+			"MU",
+			"3HT3KXAPXP/moc_drawColorMenu.cpp",
+			null
+		],
+		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/drawFloatingMenu/drawFloatingMenu.h",
+			"MU",
+			"4EHFSL55W3/moc_drawFloatingMenu.cpp",
 			null
 		],
 		[
@@ -428,7 +476,7 @@
 			null
 		],
 		[
-			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/draw.cpp",
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/draw.cpp",
 			"MU",
 			null
 		],
@@ -444,6 +492,11 @@
 		],
 		[
 			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/brushEditWindowPredef.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/drawColorMenu/drawColorMenu.cpp",
 			"MU",
 			null
 		],

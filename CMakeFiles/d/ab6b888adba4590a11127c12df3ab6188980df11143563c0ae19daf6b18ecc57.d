@@ -15,6 +15,7 @@ Painter_autogen/timestamp: \
   C:/Qt/6.4.2/mingw_64/include/QtCore/QStringList \
   C:/Qt/6.4.2/mingw_64/include/QtCore/QVector \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qabstractanimation.h \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/qabstractitemmodel.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qalgorithms.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qanimationgroup.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qanystringview.h \
@@ -82,6 +83,7 @@ Painter_autogen/timestamp: \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qpropertyanimation.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qrect.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qrefcount.h \
+  C:/Qt/6.4.2/mingw_64/include/QtCore/qregularexpression.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qscopedpointer.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qscopeguard.h \
   C:/Qt/6.4.2/mingw_64/include/QtCore/qset.h \
@@ -119,6 +121,7 @@ Painter_autogen/timestamp: \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QEnterEvent \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QMouseEvent \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QPainter \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/QPixmap \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QTransform \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qaction.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qbitmap.h \
@@ -158,13 +161,17 @@ Painter_autogen/timestamp: \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtguiexports.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtguiglobal.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtransform.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qvalidator.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qvector2d.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qvectornd.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QApplication \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/QCheckBox \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/QComboBox \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QFrame \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsBlurEffect \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsDropShadowEffect \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsEffect \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QGraphicsOpacityEffect \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QLabel \
@@ -176,8 +183,12 @@ Painter_autogen/timestamp: \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QStyle \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QWidget \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qabstractbutton.h \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/qabstractitemdelegate.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qabstractslider.h \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/qabstractspinbox.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qapplication.h \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/qcheckbox.h \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/qcombobox.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qdialog.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qframe.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qgraphicseffect.h \
@@ -186,9 +197,12 @@ Painter_autogen/timestamp: \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qmainwindow.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qmessagebox.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qpushbutton.h \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/qrubberband.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qslider.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qstyle.h \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/qstyleoption.h \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/qtabbar.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qtabwidget.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qtwidgets-config.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qtwidgetsexports.h \
@@ -594,6 +608,7 @@ Painter_autogen/timestamp: \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/AppMenu/appMenu.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/dynamicwindow.cpp \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/dynamicwindow.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/guiComponents.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/windowAnimation.cpp \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButton.cpp \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButton.h \
@@ -601,14 +616,22 @@ Painter_autogen/timestamp: \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/MenuButton/menuButtonBGButton.cpp \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/StaticWidget/staticwidget.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/cssloader.h \
-  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/draw.cpp \
-  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/draw.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/Shapes/circle.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/Shapes/line.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/Shapes/polygon.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/Shapes/rectangle.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/draw.cpp \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/draw.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/drawing/shape.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/main.cpp \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/mainwindow.cpp \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/mainwindow.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/brushEditWindowPredef.cpp \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/brushEditWindowPredef.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/brushEditWindow/colorUtil.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/drawColorMenu/drawColorMenu.cpp \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/drawColorMenu/drawColorMenu.h \
+  C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/drawFloatingMenu/drawFloatingMenu.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/drawShapeWindow/drawShapeWindowPredef.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/menuButtons/buttons.h \
   C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/selectColorWindow/colorwidget.h \

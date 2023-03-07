@@ -8,12 +8,18 @@
 	"INPUTS" : 
 	[
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/css/menubutton.css",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/css/drawcolormenu.css",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/css/drawfloatingmenu.css",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/css/dynamicwindow.css",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/menuButtons/paint.png",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/menuButtons/shapes.png",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/drawColorMenu/eraser_icon.png",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/predef_elements/drawColorMenu/paint_brush.png",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/image/window_icon.png",
 		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/minimizeIcon.png",
-		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/closeIcon.png"
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/closeIcon.png",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/widgetsIcons/checkBox_checked.png",
+		"C:/Users/Usuario/Documents/program/C++/QT_Projects/Painter/components/DynamicWindow/widgetsIcons/cb_downArrow.png"
 	],
 	"LOCK_FILE" : "C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_2_MinGW_64_bit-Release/CMakeFiles/Painter_autogen.dir/AutoRcc_resource_file_EWIEGA46WW_Lock.lock",
 	"MULTI_CONFIG" : false,

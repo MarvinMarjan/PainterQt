@@ -96,6 +96,7 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtCore/qversiontagging.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QColor \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QMouseEvent \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/QPixmap \
   C:/Qt/6.4.2/mingw_64/include/QtGui/QTransform \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qaction.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qbitmap.h \
@@ -113,6 +114,7 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtGui/qkeysequence.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qpaintdevice.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qpalette.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qpicture.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qpixelformat.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qpixmap.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qpointingdevice.h \
@@ -121,6 +123,7 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtGui/qrgb.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qrgba64.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qscreen.h \
+  C:/Qt/6.4.2/mingw_64/include/QtGui/qtextdocument.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtgui-config.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtguiexports.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qtguiglobal.h \
@@ -129,8 +132,11 @@ C:/Users/Usuario/Documents/program/C++/QT_Projects/build-Painter-Desktop_Qt_6_4_
   C:/Qt/6.4.2/mingw_64/include/QtGui/qvectornd.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt/6.4.2/mingw_64/include/QtGui/qwindowdefs_win.h \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/QLabel \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QStyle \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/QWidget \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/qframe.h \
+  C:/Qt/6.4.2/mingw_64/include/QtWidgets/qlabel.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qstyle.h \
   C:/Qt/6.4.2/mingw_64/include/QtWidgets/qtwidgets-config.h \
